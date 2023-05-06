@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="191b026f-9cc1-42ac-b975-78c9a9003493" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mn2ExwT4nZX5k66gxrpnE25LIO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Roundrobin">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="RoundRobin" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Roundrobin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Roundrobin" />
+      <module name="RoundRobin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Roundrobin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="191b026f-9cc1-42ac-b975-78c9a9003493" name="Default Changelist" comment="" />
+      <created>1678388917044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678388917044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="393" key="GridCell.Tab.0.bottom" timestamp="1679413307724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="393" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1679413307724" />
+    <state width="1323" height="393" key="GridCell.Tab.0.center" timestamp="1679413307724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="393" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1679413307724" />
+    <state width="1323" height="393" key="GridCell.Tab.0.left" timestamp="1679413307724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="393" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1679413307724" />
+    <state width="1323" height="393" key="GridCell.Tab.0.right" timestamp="1679413307724">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="393" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1679413307724" />
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1678685011454">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1678685011454" />
+  </component>
+</project>
